@@ -17,8 +17,6 @@ We'll use input from a form to create an instance of a model, and then send that
 
 To code along, fork and clone this lab. Run `bundle install` to make sure all of your dependencies are installed. 
 
-### Starter Code
-Let's take a closer look at the starter code. Run `shotgun` to make sure that your application can run.
 
 #### Routes
 + The controller has two routes:
